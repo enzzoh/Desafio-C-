@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "advocaciaPrincipal", "advocacia\advocaciaPrincipal.csproj", "{682BD610-C69B-4ED9-973E-5E9D69004B6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "advocaciaPrincipal", "advocacia\advocaciaPrincipal.csproj", "{682BD610-C69B-4ED9-973E-5E9D69004B6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvocaciaTDD", "Teste1\AdvocaciaTDD.csproj", "{4E7B7D89-7F3F-4134-935E-4DE40FEFDAB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvocaciaTDD", "Teste1\AdvocaciaTDD.csproj", "{4E7B7D89-7F3F-4134-935E-4DE40FEFDAB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvocaciaWeb", "AdvocaciaWeb\AdvocaciaWeb.csproj", "{16789573-DA0F-48AE-8407-39C3BD296011}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{4E7B7D89-7F3F-4134-935E-4DE40FEFDAB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E7B7D89-7F3F-4134-935E-4DE40FEFDAB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E7B7D89-7F3F-4134-935E-4DE40FEFDAB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16789573-DA0F-48AE-8407-39C3BD296011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16789573-DA0F-48AE-8407-39C3BD296011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16789573-DA0F-48AE-8407-39C3BD296011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16789573-DA0F-48AE-8407-39C3BD296011}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
